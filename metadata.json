@@ -1,0 +1,6 @@
+{
+  "name": "RF AI - WhatsApp Support Agent",
+  "description": "An all-in-one AI suite featuring chat assistants, code writing playpens with dynamic live pre-renders, logo makers (vector SVG & HD pixel assets), and continuous automated support simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
